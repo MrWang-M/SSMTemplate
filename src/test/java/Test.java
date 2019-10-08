@@ -1,4 +1,4 @@
-import com.ssm.template.services.TestService;
+import com.ssm.template.services.impl.TestService;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;

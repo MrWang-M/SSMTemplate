@@ -1,6 +1,6 @@
 package com.ssm.template.controllers;
 
-import com.ssm.template.services.TestService;
+import com.ssm.template.services.impl.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
