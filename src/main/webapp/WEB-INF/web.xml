@@ -13,6 +13,7 @@
             <!-- spring配置文件 -->
             <param-value>classpath:spring*.xml</param-value>
         </init-param>
+        <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
         <servlet-name>springMVC</servlet-name>
